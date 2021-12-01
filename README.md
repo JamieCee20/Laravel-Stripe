@@ -10,5 +10,4 @@
 <p>You can successfully checkout with stripes payment interface</p>
 
 ## Live Example
-<p><a href="https://ecommerce.jlcwd.me">View Here</a></p>
-<p><strong>!!!PLEASE DO NOT SUBMIT REAL CREDIT CARD INFORMATION!!!</strong></p>
+<p>Currently Unavailable</p>
